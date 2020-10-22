@@ -6603,7 +6603,7 @@
 					<Offset>210.0</Offset>
 					<OnForwardSide>true</OnForwardSide>
 					<Type>PARALLEL</Type>
-					<ParkingSpaceCount>5</ParkingSpaceCount>
+					<ParkingSpaceCount>7</ParkingSpaceCount>
 					<ParkingSpaceLength Class="UnitValue">
 						<Value Class="Double">6</Value>
 						<Unit Class="LengthUnits"><![CDATA[METER]]></Unit>
